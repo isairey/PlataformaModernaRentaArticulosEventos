@@ -271,7 +271,7 @@ Módulo analítico empresarial.
 # 📂 Estructura del proyecto
 
 ```bash
-PartyRentalsManagementSystem/
+PlataformaModernaRentaArticulosEventos/
 │
 ├── frontend/
 │   ├── components/
@@ -385,7 +385,7 @@ Cliente → Evento → Reservación → Inventario → Pago → Confirmación
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/party-rentals-management-system.git
+git clone https://github.com/isairey/PlataformaModernaRentaArticulosEventos.git
 ```
 
 ---
@@ -393,7 +393,7 @@ git clone https://github.com/usuario/party-rentals-management-system.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd PartyRentalsManagementSystem
+cd PlataformaModernaRentaArticulosEventos
 ```
 
 ---
@@ -433,27 +433,6 @@ http://localhost:3000
 
 ---
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 📊 Dashboard administrativo
-![Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200)
-
-### 🎊 Gestión de eventos
-![Events](https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=1200)
-
-### 📦 Inventario y artículos
-![Inventory](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1200)
-
-### 🏛️ Reservaciones y contratos
-![Bookings](https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1200)
-
-</div>
-
----
 
 # 👥 Roles del sistema
 
@@ -527,7 +506,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Full Stack Developer
+## Isai Reyes - Full Stack Developer
 
 Desarrollador apasionado por sistemas empresariales, plataformas de eventos y soluciones escalables 🚀
 
